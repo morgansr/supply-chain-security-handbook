@@ -1,0 +1,24 @@
+---
+weight: 10
+title: "Executive Summary"
+bookFlatSection: false
+---
+
+# Executive Summary
+The global electric sector depends on increasingly complex supply chains, which have become a source of cybersecurity risk that utilities and other organizations in the sector must manage, especially as they continue toward digitalization to realize efficiency and control in their operations. Cybersecurity Supply Chain Risk Management (C-SCRM) requires organizations to understand not only their own infrastructure and processes, but also their dependencies on vendors, their vendors’ cybersecurity risk management capabilities, and the cybersecurity capabilities of the vendors’ products. This handbook considers C-SCRM through the lenses of risk management, asset management, policies and planning, and procurement. Each section captures the information presented during a live webinar (recordings are available on the United States Energy Association’s website for Cybersecurity and Digitalization) and provides links to additional resources to help utilities learn about and implement C-SCRM. Links to the individual webinars can also be found at the beginning of each section and in Appendix C.
+
+## Risk Management
+Risk management begins with understanding risk. In the supply chain context, measures to assess and mitigate risk depend heavily on what the utility can control and what their vendors must control. Standards like International Standards Organization/International Electrotechnical Commission (ISO/IEC) 27001 and International Society of Automation (ISA)/IEC 62443 can be useful to utilities and vendors to provide assurance about practices and expectations on both sides. Utilities must understand how they can work with vendors and hold them accountable, while vendors need a clear understanding of expectations and requirements. Building trust through relationships becomes essential, but at the same time, utilities must take ownership of the final implementation and verify that their own needs are met.
+
+## Asset Management
+Bringing vendor assets into the utility network requires careful consideration of the relative benefits and risks. Mitigations that reduce risks include deploying defensible architectures and secure remote access, including secure cloud services. A defensible architecture should align with and support the utility’s incident response plan. That is, the network architecture, including strong demarcation between enterprise information technology (IT) networks and operational technology (OT) networks, should help the utility maintain operations throughout an incident from detection to response and through recovery. As organizations grow, their network architecture will have to evolve to maintain appropriate cybersecurity capabilities while procuring and deploying new systems. As organizations rely more on remote access and cloud services, careful consideration of the relative benefits and risks is needed. In both cases, best practices in defensible architecture can help mitigate identified risks.
+
+## Policies and Planning / Governance
+One of the most important cybersecurity controls any organization can implement is an Incident Response Plan. Two examples of incident response plans, with focus on response to supply chain incidents, demonstrate common concerns that utilities must address. 
+
+A durable cyber risk management program requires executive buy-in. As supply chain cybersecurity risks grow, procurement policies and processes take on greater importance. Governance drives strategy and management will be the final determinant of risk tolerance. 
+
+Finally, several tools have been developed to help organizations manage cybersecurity risks, especially C-SCRM. Cyber informed engineering (CIE) presents a systematic process to incorporate cybersecurity into the development of new projects and maintenance of existing infrastructure. The Distributed Energy Resources Cybersecurity Framework (DERCF) is a tool to manage risks associated with DER, a rapidly growing generation source that will be essential to many countries to meet climate change goals.
+
+## Procurement
+The procurement process is the moment where the organization interacts directly with the supply chain and has the greatest opportunity to shape the relationship. Utilities must know their own requirements going into the procurement process and should not shy away from holding vendors to account in order to get products that match the utility’s needs. Resources like the North American Transmission Forum’s (NATF’s) Energy Sector Supply Chain Risk Questionnaire provide a widely used resource to evaluate vendors during procurement. An Implementation Plan can be a good place to capture details, including cybersecurity considerations, throughout the deployment process.
