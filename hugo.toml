@@ -1,0 +1,12 @@
+baseURL = 'https://controlsystemsroadmap.com/'
+languageCode = 'en-us'
+title = 'Electricity Sector Supply Chain Cybersecurity Handbook'
+theme = 'hugo-book'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
