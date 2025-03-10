@@ -65,7 +65,7 @@ The NIST Special Publication 800-161r1, “Cybersecurity Supply Chain Risk Manag
 ## Translating Requirements Standards to Technical Implementation
 Requirement standards like the NIST Cybersecurity Framework, ISO/IEC 62443, and ISO 27001 are broader than just C-SCRM and provide a good starting point for developing a security program. Technical standards like ISO/IEC 62351 and guidance standards like ISO 31000 on risk assessments also provide supporting details for a cybersecurity program. These standards and the NIST SP 800-161r1 standard on C-SCRM provide requirements that an organization can translate into policies and guidelines that reflect the unique reality within the organization, for example, defining roles and responsibilities that align with the personnel and capabilities within the organization (see Figure 2, below). These “global policies” establish the rules of the game for the organization to follow and apply to its unique risks and the underlying assets.
 
-![Figure 2. Relationship of various standards to support organizational cybersecurity risk management.](figures/020_Relationship_between_cybersecurity_standards.png)  
+![Figure 2. Relationship of various standards to support organizational cybersecurity risk management.](/images/020_Relationship_between_cybersecurity_standards.png)  
 Figure 2. Relationship of various standards to support organizational cybersecurity risk management.
 {.figure-caption}
 
@@ -76,7 +76,7 @@ The details of the global policies, the contextual requirements, and the technic
 ## C-SCRM Lifecycle
 The C-SCRM lifecycle is a 5-step process involving each stage of the supply chain, as shown in Figure 3. The first stage begins with understanding and assuring that manufacturers and providers have the right qualifications, including appropriate cybersecurity certifications and competencies. Suppliers must understand that they should be compliant to expected standards such as ISA/IEC 62443 and the ISO 27000 series.
 
-![Figure 3. C-SCRM Lifecycle.](figures/020_C-SCRM_Lifecycle.png)  
+![Figure 3. C-SCRM Lifecycle.](/images/020_C-SCRM_Lifecycle.png)  
 Figure 3. C-SCRM Lifecycle.
 {.figure-caption}
 

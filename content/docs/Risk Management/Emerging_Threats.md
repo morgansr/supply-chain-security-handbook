@@ -36,7 +36,7 @@ Organizations play a crucial role in end-to-end supply chain cybersecurity by ta
 ## End-to-End Supply Chain Cybersecurity
 Supply chain cybersecurity is only as strong as its weakest link. To adequately defend against cybercrime, end-to-end supply chain cybersecurity must be prioritized by organizations. End-to-end supply chain cybersecurity places responsibility on all roles—from fabrication to consumption—to tackle threats and reduce vulnerabilities.
 
-![It kind of looks like a bow tie](/images/Risk_Management_Bow_Tie.png)  
+![It kind of looks like a bow tie](/images/010_Risk_Management_Bow_Tie.png)  
 Figure 1. Risk Management Bow Tie
 {.figure-caption}
 

@@ -96,7 +96,7 @@ During implementation, utilities should use a documented Implementation Plan to 
 
 In addition to the vendor risk assessment, utilities should conduct a risk assessment specific to the implementation of the vendor’s product within the utility’s network. The risk assessment will identify specific risks related to the implementation. The utility can develop recommendations and measures that the vendor should take prior to implementation. For example, if the vendor requires remote access for maintenance, then they must implement (or agree to utility implemented) secure remote access in line with zero-trust principles. 
 
-![Figure 19. Example Table of Contents from KESH's Implementation Plan](figures/100_Implementation_Plan_TOC.png)
+![Figure 19. Example Table of Contents from KESH's Implementation Plan](/images/100_Implementation_Plan_TOC.png)
 Figure 19. Example Table of Contents from KESH's Implementation Plan
 {.figure-caption}
 

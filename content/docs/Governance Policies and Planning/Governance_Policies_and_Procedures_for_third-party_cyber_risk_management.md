@@ -43,7 +43,7 @@ Obtaining executive buy-in can be challenging for myriad reasons, but most chall
 
 Organizational change management (OCM) is a complicated process with many moving parts as shown in Figure 16. The ADKAR model is an example of an outcome-oriented change management method that aims to reduce resistance to organizational change. Shown on the left side of the figure, ADKAR stands for awareness, desire, knowledge, ability, and reinforcement. In the middle of the image, the five circles expand on each aspect of ADKAR and highlight key points and considerations to help improve acceptance and reduce opposition to new processes and policies in all levels of an organization. Note that OCM models and methodologies are similar, and it is typically most appropriate to leverage the model already in use by the organization.
 
-![Figure 16. Organizational Change Management (OCM) model and considerations.](figures/070_OCM_model.png)  
+![Figure 16. Organizational Change Management (OCM) model and considerations.](/images/070_OCM_model.png)  
 Figure 16. Organizational Change Management (OCM) model and considerations.
 {.figure-caption}
 

@@ -22,7 +22,7 @@ weight: 43
 ## Summary
 Energy systems around the world are evolving across several dimensions, which may increase complexity in risk in addition to delivering the promised benefits. Two major changes include (1) the shift to more of a “prosumer” model where stakeholders that were formally just energy consumers are becoming energy producers as well, and (2) the evolving ownership models for generation resources. For example, homeowners or a third party may own the residential solar PV system, but an aggregator may have some level of control over that resource in addition to the distribution utility. The move from traditional centralized grid to more distributed energy resources brings with it complexity, especially at the grid edge. Energy is no longer just consumed, but rather it is generated, stored, managed, and traded, as shown in Figure 17 below. Doing so requires complex communication networks, which increases potential cyber vulnerabilities. 
 
-![Figure 17. The evolving grid includes more communications and active participation from more stakeholders.](figures/080_evolving_grid.png)  
+![Figure 17. The evolving grid includes more communications and active participation from more stakeholders.](/images/080_evolving_grid.png)  
 Figure 17. The evolving grid includes more communications and active participation from more stakeholders.
 {.figure-caption}
 

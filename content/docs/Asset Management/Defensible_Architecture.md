@@ -50,7 +50,7 @@ ACME started by reexamining their processes. A Crown Jewel Analysis identified t
 
 Resource constraints meant ACME could not implement a separate domain network for their OT infrastructure, so they used a shared infrastructure model. Using only the one firewall, ACME segmented the network with different firewall rules and different zones on the firewall for the IT and OT networks. They also established an OT DMZ to monitor and control data movement between the IT and OT systems and focused on making sure data moved through the DMZ. Figure 7 below models this hypothetical segmentation scenario.
 
-![Figure 7. ACME Network Segmentation](figures/050_ACME_Network_Segmentation.png)  
+![Figure 7. ACME Network Segmentation](/images/050_ACME_Network_Segmentation.png)  
 Figure 7. ACME Network Segmentation
 {.figure-caption}
 
@@ -63,13 +63,13 @@ ACME has acquired an electric utility that serves a similar customer base and sc
 
 In response to growing threats, ACME bolstered their network segmentation with dedicated OT infrastructure and internal segmentation by function/process, grouping together components that supported the same process. This strategy also helps address vulnerabilities in legacy systems that may not have modern security capabilities by putting defenses close to the systems. Similarly, it helps to isolate vendor devices that may not be trusted by enabling the utility to segment that device and the traffic to and from it. In general, ACME restricted data flow to the one up/one down model—data flows that traverse security zones only flow one zone higher or one zone lower. Figure 8 depicts this level of segmentation.
 
-![alt text](figures/050_Increased_ACME_Network_segmentation.png)
+![alt text](/images/050_Increased_ACME_Network_segmentation.png)
 Figure 8. Increased ACME Network Segmentation (Water and Electric)
 {.figure-caption}
 
 ACME also reviewed their field area network (FAN) and made plans to address identified threats. As a small utility, ACME was able to use public communication infrastructure without worry. However, intel indicated that hacktivists in the geopolitical space were targeting publicly available IP addresses. They moved to private communication paths like private cellular, deployed some of their own network, and stopped using public infrastructure (i.e., with public IP addresses) as shown in Figure 9.
  
-![ACME Field Area Network](figures/050_ACME_Field_Area_Network.png)
+![ACME Field Area Network](/images/050_ACME_Field_Area_Network.png)
 Figure 9. ACME Field Area Network
 {.figure-caption}
 
@@ -83,13 +83,13 @@ In a final example, ACME expanded operation by adding utility scale solar and wi
 
 To adapt to their changing environment, ACME maximized network segmentation. They thought about site and path resilience and deploying technologies like software defined networking (SDN) in an SD-WAN (software-defined wide area network) to enable multipath communication to primary and backup sites. They implemented micro segmentation and containers to expand asset protection. Figure 10 below depicts their new level of network segmentation.
 
-![ACME Network Segmentation (Water, Electric, and Generation)](figures/050_Large_ACME_Network_Segmentation.png)
+![ACME Network Segmentation (Water, Electric, and Generation)](/images/050_Large_ACME_Network_Segmentation.png)
 Figure 10. ACME Network Segmentation (Water, Electric, and Generation)
 {.figure-caption}
 
 With distributed energy systems and behind-the-meter generation like customer-sited solar, ACME knew they were not going to be able to control both sides of the connection for grid-connected devices. This required security enhancements to their FAN and shifting to an SD-WAN model where all endpoints had access rules, and traffic was controlled across their network. Figure 11 models this new field area network.
 
-![ACME Field Area Network (Water, Electric, and Generation)](figures/050_Large_ACME_Field_Area_Network.png)
+![ACME Field Area Network (Water, Electric, and Generation)](/images/050_Large_ACME_Field_Area_Network.png)
 Figure 11. ACME Field Area Network (Water, Electric, and Generation)
 {.figure-caption}
 
