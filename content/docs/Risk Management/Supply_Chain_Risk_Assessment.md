@@ -49,7 +49,7 @@ Many utilities and organizations require vendors to respond to cybersecurity que
  
 The North American Transmission Forum (NATF) managed a collaborative industry process to develop a Supply Chain Criteria and Risk Questionnaire, that is freely available, to manage this dilemma. The Risk Questionnaire was endorsed by NERC and has been implemented globally. Many vendors, in turn, have already completed this questionnaire, and maintain their responses to quickly provide this information to purchasing utilities.
 
-![Screenshot of NATF Supply Chain questionnaire](/figures/030_fig_callout.png)
+![Screenshot of NATF Supply Chain questionnaire](figures/030_fig_callout.png)
 Screenshot of the NATF Supply Chain Questionnaire
 {.figure-caption}
 {{% /hint %}}

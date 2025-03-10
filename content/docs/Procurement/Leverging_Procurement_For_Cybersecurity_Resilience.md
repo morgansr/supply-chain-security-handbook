@@ -43,7 +43,7 @@ Lastly, effective cybersecurity programs have solid negotiation tactics, both in
 ## The Procurement Process
 Cybersecurity procurement programs are cross-functional efforts with several different units within an organization. The business area that deploys and uses the product or service should describe the need and their requirements. A supply management group or procurement office should assist with the request for proposal (RFP) process. IT establishes and evaluates the cyber requirements. Legal ensures that the terms and conditions address those requirements adequately. Finally, management provides the final approval, which can only be given if management understands the risks and supports the risk mitigations needed for implementation. Figure 18 below shows the vendor cybersecurity assessment process at MISO at a high-level.
 
-![Figure 18. High-level view of the cybersecurity procurement process at MISO.](/figures/090_high-level_view_cyber_procurement_process_MISO.png)  
+![Figure 18. High-level view of the cybersecurity procurement process at MISO.](figures/090_high-level_view_cyber_procurement_process_MISO.png)  
 Figure 18. High-level view of the cybersecurity procurement process at MISO.
 {.figure-caption}
 

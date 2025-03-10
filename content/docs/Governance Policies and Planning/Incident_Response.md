@@ -44,7 +44,7 @@ Chelan PUD operates in the northwest United States, managing three hydroelectric
 ### Adopting the NIST Cybersecurity Framework
 Chelan County PUD began overhauling their incident response plan in 2016 to comply with NERC CIP regulations. This effort was informed by key documents like the NIST Special Publication 800-61 Revision 2, “Computer Security Incident Handling Guide” and the Department of Homeland Security's guide on “Developing an Industrial Control Systems Cyber Security Incident Response Capability.” The adoption of the NIST Model was pivotal in this strategic redirection. The NIST Model highlights four interconnected phases: Preparation; Detection and Analysis; Containment, Eradication, & Recovery; and Post-incident Activity, as shown in Figure 12.
 
-![Four-step process to developing incident response capabilities.](/figures/060_incident_response_process.png)  
+![Four-step process to developing incident response capabilities.](figures/060_incident_response_process.png)  
 Figure 12. Four-step process to developing incident response capabilities.
 {.figure-caption}
 
@@ -54,7 +54,7 @@ The preparation phase involved applying NERC CIP classification criteria to iden
 ### Writing Your Incident Response Plan
 When developing an incident response plan, the best approach is to get something put on paper. The first draft does not have to be perfect, and a “Crawl, Walk, Run” approach to maturing the plan is effective. That is, utilities should create a basic plan first and improve it over time to the point where it becomes fully fleshed out and functional for all parties involved. Once you have a plan, implementing lessons learned from incident response plan exercises is the most effective method to improve your plan. Chelan PUD’s IT department used the American Public Power Association’s Public Power Cyber Incident Response Playbook (2019) as a guide to developing their cyber incident response plan. 
 
-![Example cyber incident handling process flowchart](/figures/060_Example_Incident_Response_Flowchart.png)  
+![Example cyber incident handling process flowchart](figures/060_Example_Incident_Response_Flowchart.png)  
 Figure 13. Example cyber incident handling process flowchart (Source: APPA 2019 via Michael Martin)
 {.figure-caption}
 
@@ -73,7 +73,7 @@ Containment and eradication require the utility to act swiftly, so playbooks for
 
 Recovery may be an extended process and will highlight many opportunities for future improvements. Utilities should document all the steps necessary to restore the system back to full operation. Some essential strategies for recovery include keeping spare hardware for human-machine interfaces (HMIs), computers, PLCs, remote terminal units (RTUs), and network switches in case of supply chain delays. Equipment like this can have a long lead time—for example, Chelan’s preferred network switch had a 180-day lead time—so spare inventory may be essential.
 
-![Example decision tree from Chelan PUD's incident response plan.](/figures/060_Example_Decision_Tree.png)  
+![Example decision tree from Chelan PUD's incident response plan.](figures/060_Example_Decision_Tree.png)  
 Figure 14. Example decision tree from Chelan PUD's incident response plan. (Source: Michael Martin, Chelan PUD)
 {.figure-caption}
 
@@ -113,7 +113,7 @@ Because supply chains can have a large impact on their cybersecurity posture, GR
 #### Containment, Eradication, and Recovery
 GRIDCo has not had a service interruption but has had incidents that required response. In the past, their detection created many false positives, which they have worked to reduce through iterative improvements, such as deploying new triage processes and new systems to help identify false positives. Fewer alerts mean GRIDCo can act on the alerts that do arise. Upon detection of an issue, GRIDCo quickly initiates a well-structured response process (see Figure 15), focusing on rapid containment and recovery to minimize operational disruptions. Their incident management process includes communication internally as well as with three external groups that GRIDCo is required to inform according to local regulations. 
 
-![GRIDCo's response process from incident logging to resolution and closure.](/figures/060_Incident_Response_Process_from_logging_to_resolution.png)  
+![GRIDCo's response process from incident logging to resolution and closure.](figures/060_Incident_Response_Process_from_logging_to_resolution.png)  
 Figure 15. GRIDCo's response process from incident logging to resolution and closure.
 {.figure-caption}
 

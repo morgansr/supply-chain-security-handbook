@@ -27,7 +27,7 @@ weight: 32
 ## Summary
 Remote access—being able to access critical control systems from outside the physical facility, from an external network—has become an essential business requirement for many organizations. But remote access brings significant cybersecurity risks just as it makes operations more flexible. A popular, recent resource from the SANS Institute, “The Five ICS Cybersecurity Critical Controls,” identifies “Secure Remote Access” and “Defensible Architecture” as two of the five critical controls. Moreover, a “Defensible Architecture” is a prerequisite for the “Secure Remote Access” control, as shown in Figure X below. These two critical controls stand out as paramount to provide secure remote access and cloud security, which are necessary capabilities to mitigate supply chain cybersecurity risks.
 
-![Relationship between the 5 critical controls. Note that the controls should be read in order from top to bottom and left to right.](/figures/040_5_ics_critical_controls.png#center)
+![Relationship between the 5 critical controls. Note that the controls should be read in order from top to bottom and left to right.](figures/040_5_ics_critical_controls.png#center)
 Flowchart of the 5 Critical Controls from SANS
 {.figure-caption}
 
@@ -38,7 +38,7 @@ An enforcement boundary naturally fits not only between Purdue levels but also b
 
 One of the most important aspects of a defensible architecture is defining the demarcation between IT and OT systems (typically, between Purdue levels 4 and 3). This demarcation acts as the primary line of defense (i.e., the primary enforcement boundary) for the OT space. OT systems are heavily dependent on network defenses, external to what can be installed onto an OT device. Assets should be placed in either the IT or the OT environment, but not both nor on a dividing line. The placement is determined by considering whether the asset could have an impact on the OT processes. If there could be any potential disturbance in the OT process by an asset, it should be placed in the OT side of that demarcation.
 
-![alt text](/figures/040_Major_Enforcement_Boundary.png)  
+![alt text](figures/040_Major_Enforcement_Boundary.png)  
 Figure 5. Focus on enforcement boundaries between Levels 5 and 4. (Justin Searle)
 {.figure-caption}
 
@@ -53,7 +53,7 @@ One common example of multiple DMZ occurs with separate DMZs for the “northbou
 
 A common security mistake is sharing management solutions across both IT and OT across the boundary. For example, shared AD exposes OT credentials to attacks on Enterprise AD. Compromised Enterprise AD would then allow an attacker to completely bypass the IT/OT boundary. Shared network and virtualization management leads to IT/OT perimeter bypasses as well. Organizations should separate all management solutions between IT/OT, such as separate AD with no trust relationships and managing OT networks, virtualization, backups, patching, and endpoint detection and response (EDR) from within the OT environment, keeping all IT and OT tools separate entirely. It is possible to use the same solution within both IT and OT; however, different management servers should be used. This setup allows for bulk licensing and shared knowledge between the IT and OT teams. Moreover, it reduces the number of communication streams between the IT and OT environments that must be managed.
 
-![alt text](/figures/040_Minor_Enforcement_Boundary.png)  
+![alt text](figures/040_Minor_Enforcement_Boundary.png)  
 Figure 6. Focus on enforcement boundaries between Levels 4 and 3 and Levels 3 and 2. (Justin Searle)
 {.figure-caption}
 
